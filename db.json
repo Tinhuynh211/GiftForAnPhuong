@@ -1,0 +1,78 @@
+{
+  "questions": [
+    {
+      "text": "Món ăn yêu thích của Văn Tín",
+      "options": [
+        "Phở bò",
+        "Cơm Tấm",
+        "Mì tôm ",
+        "Mì Quảng"
+      ],
+      "correctAnswer": "Cơm Tấm",
+      "selectedOption": null,
+      "id": 2
+    },
+    {
+      "text": "Văn Tín ghét ăn món gì nhất",
+      "options": [
+        "Pizza",
+        "Rau",
+        "Cháo dinh dưỡng",
+        "Canh mướp đắng"
+      ],
+      "correctAnswer": "Pizza",
+      "selectedOption": null,
+      "id": 3
+    },
+    {
+      "text": "Điều gì khiến anh khó chịu",
+      "options": [
+        "Em không nghe lời",
+        "Em bướng bỉnh",
+        "Em chửi anh",
+        "Không đáp án nào cả"
+      ],
+      "correctAnswer": "Không đáp án nào cả",
+      "selectedOption": null,
+      "id": 4
+    },
+    {
+      "text": "Anh muốn được nghe điều gì nhất",
+      "options": [
+        "Em yêu anh",
+        "Dạ (Em nói với anh)",
+        "Anh có nghe hong",
+        "Gọi emmmm"
+      ],
+      "correctAnswer": "Anh có nghe hong",
+      "selectedOption": null,
+      "id": 5
+    },
+    {
+      "text": "Lý do mà Anh yêu emmm",
+      "options": [
+        "Em xinhhhhhhhhhhhhh",
+        "Em Cuteeeeeeeeeeeeee",
+        "Em Hiểu anh",
+        "Hong có lí doooooo"
+      ],
+      "correctAnswer": "Hong có lí doooooo",
+      "selectedOption": null,
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "adminpassword",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "anphuong044",
+      "password": "chiyeuvantin211",
+      "role": "user"
+    }
+  ]
+}
